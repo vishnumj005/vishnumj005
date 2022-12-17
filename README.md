@@ -11,28 +11,9 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Senior Quality Engineer, Helping companies to increase the quality of their products.</i>
-</h3>
-
-<h3>
-    <i>-</i>
+    <i> I'm a Senior Quality Engineer, Helping companies to increase the quality of their products.</i>
 </h3>
 <br>
-
-
-
-<!----------------------------------- Profile View Section ------------------------------------>
-
-<p align="left">
-    <a href="https://github.com/m-sehrawat">
-        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu" />
-    </a>
-    <a href="https://github.com/m-sehrawat?tab=followers">
-        <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
-    </a>
-</p>
-<br>
-
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -59,6 +40,95 @@
 </p>
 <br>
 
+<!----------------------------------- Project Section ------------------------------------>
 
+<h2><i>My top projects</i></h2>
+
+
+<p align="left">
+    <a href="https://github.com/vishnumj005/wikipedia-bdd-automation" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WikiPedia&color=000000&logo=wikipedia&logoColor=FFFFFF&label=" alt="WikiPedia BDD automation" />
+    </a>
+    <a href="https://github.com/vishnumj005/evernote-BDD" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Evernote BDD&color=1BB91F&logo=neovim&logoColor=FFFFFF&label=" alt="Evernote BDD automation" />
+    </a>
+    <a href="https://github.com/vishnumj005/petstore_api_automation" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pestore API&color=840010&logo=fastapi&logoColor=FFFFFF&label=" alt="Petstore api automation" />
+    </a>
+    <a href="https://github.com/vishnumj005/music-app-intergration-test" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Music App&color=1a78f4&logo=android&logoColor=FFFFFF&label=" alt="Music App Automation" />
+    </a>
+    <a href="https://github.com/vishnumj005/zoomconnect-api-automation" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Zoom Connect API&color=7A1FA2&logo=zoom&logoColor=FFFFFF&label=" alt="Zoom Connect APi Automation" />
+    </a>
+    <a href="https://github.com/vishnumj005/string_reverse" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=String Reverse&color=000000&logo=string&logoColor=FFFFFF&label=" alt="String Reverse" />
+    </a>
+</p>
+<br>
+
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/vishnu-m-j-61797212b/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vishnu-m-j-61797212b/" />
+    </a>
+    <a href="#">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#" />
+    </a>
+    <a title="vishnumj005@gmail.com" href="mailto:vishnumj005@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vishnumj005@gmail.com" />
+    </a>
+</p>
+<br>
+
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnumj005&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="vishnumj" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnumj005&layout=compact&exclude_repo=music-app-intergration-test,hide=Shell&border_radius=0&theme=dark" alt="vishnumj" height="139" />
+</p>
+<br>
+
+
+
+<!----------------------------------- Top Repository Section ------------------------------------>
+
+<h2><i>Top Repositories</i></h2>
+
+
+<p>
+    <a href="https://github.com/vishnumj005/music-app-intergration-test">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=music-app-intergration-test&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
+    </a>
+    <a href="https://github.com/vishnumj005/wikipedia-bdd-automation">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=wikipedia-bdd-automation&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
+    </a>
+    <a href="https://github.com/vishnumj005/petstore_api_automation">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=petstore_api_automation&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
+    </a>
+    <a href="https://github.com/vishnumj005/zoomconnect-api-automation">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=zoomconnect-api-automation&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
+    </a>
+     <a href="https://github.com/vishnumj005/evernote-BDD">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=evernote-BDD&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
+    </a>
+    <a href="https://github.com/vishnumj005/dmg-BDD">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=dmg-BDD&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
+    </a>
+    <a href="https://github.com/vishnumj005/string_reverse">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=string_reverse&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
+    </a>
+    
+</p>
 
 
