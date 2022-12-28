@@ -46,6 +46,9 @@
 
 
 <p align="left">
+     <a href="https://github.com/vishnumj005/instagram-app-automation-browserstack" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagran%20app&color=d6249f&logo=instagram&logoColor=FFFFFF&label=" alt="Instagram app automation" />
+    </a>
     <a href="https://github.com/vishnumj005/wikipedia-bdd-automation" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WikiPedia&color=000000&logo=wikipedia&logoColor=FFFFFF&label=" alt="WikiPedia BDD automation" />
     </a>
@@ -107,6 +110,9 @@
 
 
 <p>
+     <a href="https://github.com/vishnumj005/instagram-app-automation-browserstack">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=instagram-app-automation-browserstack&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
+    </a>
     <a href="https://github.com/vishnumj005/music-app-intergration-test">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnumj005&repo=music-app-intergration-test&locale=en&border_radius=0&theme=dark" alt="vishnumj" />
     </a>
