@@ -448,7 +448,7 @@ testing across a music application.
 <br />
 
 <p align="center">
-  <b>Quality is not a final checkpoint. It is an engineering habit.</b>
+  <b>Clean code. Reliable automation. Confident releases</b>
 </p>
 
 <p align="center">
